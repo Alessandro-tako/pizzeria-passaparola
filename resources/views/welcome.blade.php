@@ -1,7 +1,11 @@
 <x-layout>
     {{-- Hero --}}
-    <section class="hero text-center text-white d-flex align-items-center justify-content-center">
-        <div class="container">
+    <section class="hero text-center text-white d-flex align-items-center justify-content-center"
+        style="background: url('{{ asset('storage/images/passaparola.png') }}') center center / cover no-repeat; height: 80vh; position: relative;">
+        <div class="position-absolute top-0 start-0 w-100 h-100"
+            style="background: linear-gradient(to bottom, rgba(0,0,0,0.2), rgba(0,0,0,0.4)); z-index: 1;">
+        </div>
+        <div class="container position-relative" style="z-index: 2;">
             <h1 class="display-4 fw-bold">Benvenuto alla Pizzeria Passaparola</h1>
             <p class="lead mt-3">Tradizione, passione e forno a legna nel cuore di Roma</p>
             <a href="{{ route('menù') }}" class="btn btn-danger mt-4 px-4 py-2">Scopri il Menù</a>
@@ -9,9 +13,10 @@
                 Effettuiamo anche <strong>ordini da asporto</strong>! Chiama lo <a href="tel:+390687655926"
                     class="text-white text-decoration-underline">06 8765 5926</a>
             </p>
-
         </div>
     </section>
+
+
 
     {{-- Vantaggi --}}
     <section class="py-5 bg-light text-center">
