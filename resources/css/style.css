@@ -1,0 +1,20 @@
+/* ===== Hero section ===== */
+.hero {
+    background-image: url('/storage/images/passaparola.png');
+    background-size: cover;
+    background-position: center;
+    height: 80vh;
+    position: relative;
+}
+
+.hero::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.5); /* overlay scuro per il testo */
+}
+
+.hero .container {
+    position: relative;
+    z-index: 2;
+}
