@@ -24,4 +24,22 @@
             </div>
         </div>
     </section>
+
+    {{-- GALLERIA / LOOKBOOK --}}
+    {{-- <section class="py-5" id="lookbook" role="region" aria-labelledby="titolo-galleria">
+        <div class="container">
+            <h2 id="titolo-galleria" class="services-title text-center mb-4">Il nostro stile</h2>
+            <p class="services-subtitle text-center mb-5">Scopri alcuni dei nostri tagli, barbe e trattamenti</p>
+
+            <div class="row g-4">
+                @foreach (range(1, 12) as $i)
+                    <div class="col-6 col-md-4">
+                        <figure class="services-box p-0 overflow-hidden m-0">
+                            <img src="{{ Storage::url('images/foto' . $i . '.png') }}" class="galleria-img" alt="Look taglio e barba {{ $i }}">
+                        </figure>
+                    </div>
+                @endforeach
+            </div>
+        </div>
+    </section> --}}
 </x-layout>

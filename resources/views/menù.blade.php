@@ -54,6 +54,10 @@
                                 Fritte</span><span>5,00 €</span></div>
                     </div>
                     <div class="col">
+                        <div class="d-flex justify-content-between border-bottom py-2"><span>Olive ascolane (10
+                                pezzi)</span><span>8,00 €</span></div>
+                    </div>
+                    <div class="col">
                         <div class="d-flex justify-content-between border-bottom py-2"><span>Mozzarelline (6
                                 pezzi)</span><span>5,00 €</span></div>
                     </div>
@@ -63,7 +67,7 @@
                     </div>
                     <div class="col">
                         <div class="d-flex justify-content-between border-bottom py-2"><span>Filetti di
-                                Baccalà</span><span>3,00 €</span></div>
+                                Baccalà</span><span>3,50 €</span></div>
                     </div>
                     <div class="col">
                         <div class="d-flex justify-content-between border-bottom py-2"><span>Chele di
@@ -84,7 +88,7 @@
                                 €</span></div>
                     </div>
                     <div class="col">
-                        <div class="d-flex justify-content-between border-bottom py-2"><span>Melanzane</span><span>4,00
+                        <div class="d-flex justify-content-between border-bottom py-2"><span>Melanzane</span><span>3,50
                                 €</span></div>
                     </div>
                     <div class="col">
@@ -96,7 +100,7 @@
                                 d’olive</span><span>4,00 €</span></div>
                     </div>
                     <div class="col">
-                        <div class="d-flex justify-content-between border-bottom py-2"><span>Piccante</span><span>4,00
+                        <div class="d-flex justify-content-between border-bottom py-2"><span>Piccante</span><span>3,50
                                 €</span></div>
                     </div>
                     <div class="col">
@@ -147,7 +151,7 @@
                     </div>
                     <div class="col">
                         <div class="d-flex justify-content-between border-bottom py-2"><span>Calzone alle
-                                Alici</span><span>8,50 €</span></div>
+                                Alici</span><span>8,00 €</span></div>
                     </div>
                     <div class="col">
                         <div class="d-flex justify-content-between border-bottom py-2"><span>Crostino al
@@ -178,7 +182,7 @@
                         <div class="col">
                             <div class="border-bottom py-2">
                                 <div class="d-flex justify-content-between">
-                                    <strong>Rossa</strong><span>4,50 €</span>
+                                    <strong>Rossa</strong><span>6,00 €</span>
                                 </div>
                                 <small class="text-muted">Ingredienti: Pomodoro e origano (aglio a richiesta).</small>
                             </div>
@@ -186,7 +190,7 @@
                         <div class="col">
                             <div class="border-bottom py-2">
                                 <div class="d-flex justify-content-between">
-                                    <strong>Margherita</strong><span>6,00 €</span>
+                                    <strong>Margherita</strong><span>8,00 €</span>
                                 </div>
                                 <small class="text-muted">Ingredienti: Pomodoro e mozzarella.</small>
                             </div>
@@ -194,7 +198,7 @@
                         <div class="col">
                             <div class="border-bottom py-2">
                                 <div class="d-flex justify-content-between">
-                                    <strong>Margherita con scamorza</strong><span>8,50 €</span>
+                                    <strong>Margherita con scamorza</strong><span>9,50 €</span>
                                 </div>
                                 <small class="text-muted">Ingredienti: Pomodoro, mozzarella e scamorza
                                     affumicata.</small>
@@ -203,16 +207,17 @@
                         <div class="col">
                             <div class="border-bottom py-2">
                                 <div class="d-flex justify-content-between">
-                                    <strong>Margherita delicata</strong><span>8,50 €</span>
+                                    <strong>Margherita delicata</strong><span>9,50 €</span>
                                 </div>
-                                <small class="text-muted">Ingredienti: Pomodoro, mozzarella, patate, scaglie di
+                                <small class="text-muted">Ingredienti: Pomodoro, mozzarella, prosciutto cotto, patate,
+                                    scaglie di
                                     parmigiano.</small>
                             </div>
                         </div>
                         <div class="col">
                             <div class="border-bottom py-2">
                                 <div class="d-flex justify-content-between">
-                                    <strong>Napoli</strong><span>8,00 €</span>
+                                    <strong>Napoli</strong><span>8,50 €</span>
                                 </div>
                                 <small class="text-muted">Ingredienti: Pomodoro, mozzarella e alici.</small>
                             </div>
@@ -220,7 +225,7 @@
                         <div class="col">
                             <div class="border-bottom py-2">
                                 <div class="d-flex justify-content-between">
-                                    <strong>Funghi</strong><span>8,00 €</span>
+                                    <strong>Funghi</strong><span>8,50 €</span>
                                 </div>
                                 <small class="text-muted">Ingredienti: Pomodoro, mozzarella e funghi.</small>
                             </div>
@@ -228,7 +233,7 @@
                         <div class="col">
                             <div class="border-bottom py-2">
                                 <div class="d-flex justify-content-between">
-                                    <strong>Wurstel</strong><span>8,00 €</span>
+                                    <strong>Wurstel</strong><span>8,50 €</span>
                                 </div>
                                 <small class="text-muted">Ingredienti: Pomodoro, mozzarella e wurstel.</small>
                             </div>
@@ -236,7 +241,7 @@
                         <div class="col">
                             <div class="border-bottom py-2">
                                 <div class="d-flex justify-content-between">
-                                    <strong>Prosciutto</strong><span>8,50 €</span>
+                                    <strong>Prosciutto</strong><span>9,00 €</span>
                                 </div>
                                 <small class="text-muted">Ingredienti: Mozzarella e prosciutto.</small>
                             </div>
@@ -261,7 +266,7 @@
                         <div class="col">
                             <div class="border-bottom py-2">
                                 <div class="d-flex justify-content-between">
-                                    <strong>Giardiniera</strong><span>9,00 €</span>
+                                    <strong>Giardiniera</strong><span>10,00 €</span>
                                 </div>
                                 <small class="text-muted">Ingredienti: Mozzarella, tonno, rucola, pachino e
                                     mais.</small>
@@ -270,7 +275,7 @@
                         <div class="col">
                             <div class="border-bottom py-2">
                                 <div class="d-flex justify-content-between">
-                                    <strong>Primavera</strong><span>9,00 €</span>
+                                    <strong>Primavera</strong><span>8,50 €</span>
                                 </div>
                                 <small class="text-muted">Ingredienti: Pomodoro, tonno, carciofini e olive.</small>
                             </div>
@@ -287,7 +292,7 @@
                         <div class="col">
                             <div class="border-bottom py-2">
                                 <div class="d-flex justify-content-between">
-                                    <strong>Carciofi tartufata</strong><span>9,50 €</span>
+                                    <strong>Carciofi tartufata</strong><span>10,00 €</span>
                                 </div>
                                 <small class="text-muted">Ingredienti: Mozzarella, crema di carciofi tartufata e
                                     carciofi.</small>
@@ -296,7 +301,7 @@
                         <div class="col">
                             <div class="border-bottom py-2">
                                 <div class="d-flex justify-content-between">
-                                    <strong>4 formaggi</strong><span>9,00 €</span>
+                                    <strong>4 formaggi</strong><span>8,50 €</span>
                                 </div>
                                 <small class="text-muted">Ingredienti: Mozzarella e formaggi.</small>
                             </div>
@@ -304,7 +309,7 @@
                         <div class="col">
                             <div class="border-bottom py-2">
                                 <div class="d-flex justify-content-between">
-                                    <strong>5 formaggi</strong><span>9,50 €</span>
+                                    <strong>5 formaggi</strong><span>9,00 €</span>
                                 </div>
                                 <small class="text-muted">Ingredienti: Mozzarella, formaggi e gorgonzola.</small>
                             </div>
@@ -312,19 +317,37 @@
                         <div class="col">
                             <div class="border-bottom py-2">
                                 <div class="d-flex justify-content-between">
-                                    <strong>Capricciosa</strong><span>9,00 €</span>
+                                    <strong>Capricciosa</strong><span>9,50 €</span>
                                 </div>
-                                <small class="text-muted">Ingredienti: Pomodoro, mozzarella, prosciutto, uovo e
+                                <small class="text-muted">Ingredienti: Pomodoro, mozzarella, funghi, carciofini,
+                                    prosciutto, uovo e
                                     olive.</small>
                             </div>
                         </div>
                         <div class="col">
                             <div class="border-bottom py-2">
                                 <div class="d-flex justify-content-between">
-                                    <strong>Rughetta</strong><span>9,50 €</span>
+                                    <strong>Rughetta</strong><span>10,50 €</span>
                                 </div>
-                                <small class="text-muted">Ingredienti: Mozzarella, rucola, pachino e scaglie di
+                                <small class="text-muted">Ingredienti: Mozzarella, rucola, bresaola, pachino e scaglie
+                                    di
                                     parmigiano.</small>
+                            </div>
+                        </div>
+                        <div class="col">
+                            <div class="border-bottom py-2">
+                                <div class="d-flex justify-content-between">
+                                    <strong>Peperoni</strong><span>9,50 €</span>
+                                </div>
+                                <small class="text-muted">Ingredienti: Pomodoro, mozzarella e peperoni.</small>
+                            </div>
+                        </div>
+                        <div class="col">
+                            <div class="border-bottom py-2">
+                                <div class="d-flex justify-content-between">
+                                    <strong>Fiori di zucca</strong><span>9,50 €</span>
+                                </div>
+                                <small class="text-muted">Ingredienti: Mozzarella, alici e fiori di zucca.</small>
                             </div>
                         </div>
                         <div class="col">
@@ -373,8 +396,8 @@
                                 <div class="d-flex justify-content-between">
                                     <strong>Occhio di Bue</strong><span>10,00 €</span>
                                 </div>
-                                <small class="text-muted">Ingredienti: Pomodoro, mozzarella, wurstel, salame piccante,
-                                    uovo e olive.</small>
+                                <small class="text-muted">Ingredienti: Pomodoro, mozzarella, uovo, funghi, wurstel,
+                                    prosciutto e olive.</small>
                             </div>
                         </div>
                         <div class="col">
@@ -421,10 +444,10 @@
                         <div class="col">
                             <div class="border-bottom py-2">
                                 <div class="d-flex justify-content-between">
-                                    <strong>Passaparola 1</strong><span>11,00 €</span>
+                                    <strong>Passaparola 1</strong><span>11,50 €</span>
                                 </div>
-                                <small class="text-muted">Ingredienti: Pomodoro, mozzarella, alice, salame,
-                                    rucola.</small>
+                                <small class="text-muted">Ingredienti: Pomodoro, mozzarella, alice, salame, rucola,
+                                    uovo, carciofini, peperoni e olive.</small>
                             </div>
                         </div>
                         <div class="col">
@@ -456,15 +479,15 @@
                         <div class="col">
                             <div class="border-bottom py-2">
                                 <div class="d-flex justify-content-between">
-                                    <strong>Passaparola 5</strong><span>11,50 €</span>
+                                    <strong>Passaparola 5</strong><span>10,00 €</span>
                                 </div>
-                                <small class="text-muted">Ingredienti: Pomodoro, mozzarella e crema tartufata.</small>
+                                <small class="text-muted">Ingredienti: Mozzarella, funghi e crema tartufata.</small>
                             </div>
                         </div>
                         <div class="col">
                             <div class="border-bottom py-2">
                                 <div class="d-flex justify-content-between">
-                                    <strong>Passaparola 6</strong><span>13,00 €</span>
+                                    <strong>Passaparola 6</strong><span>11,00 €</span>
                                 </div>
                                 <small class="text-muted">Ingredienti: Crema di zucca, funghi porcini, salsiccia e
                                     mozzarella.</small>
@@ -473,9 +496,10 @@
                         <div class="col">
                             <div class="border-bottom py-2">
                                 <div class="d-flex justify-content-between">
-                                    <strong>Passaparola 7</strong><span>11,00 €</span>
+                                    <strong>Passaparola 7</strong><span>11,50 €</span>
                                 </div>
-                                <small class="text-muted">Ingredienti: Pomodoro, mozzarella, pachino e scaglie di
+                                <small class="text-muted">Ingredienti: Pomodoro, mozzarella, pancetta, olive e scaglie
+                                    di
                                     parmigiano.</small>
                             </div>
                         </div>
@@ -484,14 +508,15 @@
                                 <div class="d-flex justify-content-between">
                                     <strong>Passaparola 8</strong><span>13,00 €</span>
                                 </div>
-                                <small class="text-muted">Ingredienti: Funghi porcini, salsiccia, mozzarella, bufala e
+                                <small class="text-muted">Ingredienti: Funghi porcini, salsiccia, mozzarella di bufala
+                                    e
                                     pachino.</small>
                             </div>
                         </div>
                         <div class="col">
                             <div class="border-bottom py-2">
                                 <div class="d-flex justify-content-between">
-                                    <strong>Passaparola 9</strong><span>13,50 €</span>
+                                    <strong>Passaparola 9</strong><span>11,00 €</span>
                                 </div>
                                 <small class="text-muted">Ingredienti: Salsiccia, crema di radicchio, funghi porcini e
                                     mozzarella.</small>
@@ -517,11 +542,11 @@
                     </div>
                     <div class="col">
                         <div class="d-flex justify-content-between border-bottom py-2"><span>Coca Cola Media (spina
-                                0,40)</span><span>3,50 €</span></div>
+                                0,40)</span><span>4,50 €</span></div>
                     </div>
                     <div class="col">
                         <div class="d-flex justify-content-between border-bottom py-2"><span>Coca Cola Grande (spina
-                                1L)</span><span>6,00 €</span></div>
+                                1L)</span><span>8,00 €</span></div>
                     </div>
                     <div class="col">
                         <div class="d-flex justify-content-between border-bottom py-2"><span>Fanta / Sprite / Coca Cola
@@ -529,15 +554,11 @@
                     </div>
                     <div class="col">
                         <div class="d-flex justify-content-between border-bottom py-2"><span>Coca Cola (bottiglia
-                                1L)</span><span>3,00 €</span></div>
+                                1L)</span><span>5,00 €</span></div>
                     </div>
                     <div class="col">
                         <div class="d-flex justify-content-between border-bottom py-2"><span>Acqua
-                                Minerale</span><span>1,00 €</span></div>
-                    </div>
-                    <div class="col">
-                        <div class="d-flex justify-content-between border-bottom py-2"><span>Vino della Casa
-                                (bicchiere)</span><span>2,00 €</span></div>
+                                Minerale</span><span>3,00 €</span></div>
                     </div>
                     <div class="col">
                         <div class="d-flex justify-content-between border-bottom py-2"><span>Vino della Casa (1/2
@@ -545,15 +566,19 @@
                     </div>
                     <div class="col">
                         <div class="d-flex justify-content-between border-bottom py-2"><span>Vino della Casa
-                                (1L)</span><span>4,00 €</span></div>
+                                (1L)</span><span>6,00 €</span></div>
                     </div>
                     <div class="col">
                         <div class="d-flex justify-content-between border-bottom py-2"><span>Vino alla Spina
-                                (1L)</span><span>4,00 €</span></div>
+                                (1/2L)</span><span>4,00 €</span></div>
+                    </div>
+                    <div class="col">
+                        <div class="d-flex justify-content-between border-bottom py-2"><span>Vino alla Spina
+                                (1L)</span><span>7,00 €</span></div>
                     </div>
                     <div class="col">
                         <div class="d-flex justify-content-between border-bottom py-2"><span>Vino in
-                                Bottiglia</span><span>6,00 €</span></div>
+                                Bottiglia</span><span>8,00 €</span></div>
                     </div>
                     <div class="col">
                         <div class="d-flex justify-content-between border-bottom py-2"><span>Birra in bottiglia
@@ -596,7 +621,7 @@
                 <h2 class="h4 text-danger mb-3">🍮 E per finire...</h2>
                 <div class="row row-cols-1 row-cols-md-2 g-3">
                     <div class="col">
-                        <div class="d-flex justify-content-between border-bottom py-2"><span>Gelati</span><span>1,50
+                        <div class="d-flex justify-content-between border-bottom py-2"><span>Gelati</span><span>3,50
                                 €</span></div>
                     </div>
                     <div class="col">
@@ -604,18 +629,13 @@
                                 €</span></div>
                     </div>
                     <div class="col">
-                        <div class="d-flex justify-content-between border-bottom py-2"><span>Liquori</span><span>2,50
+                        <div class="d-flex justify-content-between border-bottom py-2"><span>Liquori</span><span>2,00
                                 €</span></div>
                     </div>
                     <div class="col">
-                        <div class="d-flex justify-content-between border-bottom py-2"><span>Amari</span><span>2,50
+                        <div class="d-flex justify-content-between border-bottom py-2"><span>Amari</span><span>2,00
                                 €</span></div>
                     </div>
-                    <div class="col">
-                        <div class="d-flex justify-content-between border-bottom py-2"><span>Spumante</span><span>3,00
-                                €</span></div>
-                    </div>
-                </div>
                 <p class="small mt-2 text-muted">* 1,00 € per il servizio per chi non ordina almeno una pizza.</p>
             </div>
 
