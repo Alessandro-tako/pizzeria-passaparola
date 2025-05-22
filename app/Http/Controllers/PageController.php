@@ -14,8 +14,8 @@ class PageController extends Controller
         return view('about');
     }
     
-    public function menù() {
-        return view('menù');
+    public function menu() {
+        return view('menu');
     }
     
     public function contact() {

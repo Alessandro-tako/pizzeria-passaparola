@@ -36,15 +36,25 @@
                 </div>
             </div>
 
-            {{-- CTA TripAdvisor --}}
+            {{-- CTA TripAdvisor + Google --}}
             <div class="text-center mt-5">
                 <h5 class="mb-3">❤️ Ti sei trovato bene da noi?</h5>
                 <p class="mb-3">Lascia una recensione e aiutaci a far conoscere la nostra pizzeria!</p>
-                <a href="https://www.tripadvisor.it/Restaurant_Review-g187791-d3447935-Reviews-Passaparola_Pizzeria-Rome_Lazio.html"
-                    target="_blank" rel="noopener" class="btn btn-success px-4 py-2">
-                    ✍️ Scrivi una recensione su TripAdvisor
-                </a>
+
+                <div class="d-flex justify-content-center flex-wrap gap-3">
+                    <a href="https://www.tripadvisor.it/Restaurant_Review-g187791-d3447935-Reviews-Passaparola_Pizzeria-Rome_Lazio.html"
+                        target="_blank" rel="noopener" class="btn btn-outline-success px-4 py-2"
+                        aria-label="Scrivi una recensione su TripAdvisor per la Pizzeria Passaparola">
+                        ✍️ Scrivi una recensione su TripAdvisor
+                    </a>
+                    <a href="https://www.google.com/search?sca_esv=806b124b1fa22633&sxsrf=AHTn8zry3ebk3hxu5WL9Y6WEByKg97ZHjA:1747940374280&si=APYL9btvhO6SAb8jF9HqTZMMa7vs_teLnZaEVrJZwRKFIIKjoYH8WRuinYNBAgi4sFFDWi2Mw19L0_Zfwmf9zVPWE7GMNO-d0jzLLkt2qaYy9aPDFZF3mp51iIj-VnWLoRQLvYx6q_nG&q=Passaparola+Recensioni&sa=X&ved=2ahUKEwjizeOo4beNAxVM1wIHHb2dPNIQ0bkNegQIJBAD&biw=1718&bih=1270&dpr=1"
+                        target="_blank" rel="noopener" class="btn btn-outline-primary px-4 py-2"
+                        aria-label="Scrivi una recensione su Google per la Pizzeria Passaparola">
+                        ⭐ Lascia una recensione su Google
+                    </a>
+                </div>
             </div>
+
         </div>
     </section>
 </x-layout>

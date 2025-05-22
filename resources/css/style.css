@@ -2,3 +2,23 @@ a{
     text-decoration: none;
     color: black;
 }
+
+.galleria-img {
+    width: 100%;
+    height: 220px;
+    object-fit: cover;
+    object-position: center;
+    border-radius: 0.5rem;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+}
+
+.galleria-img:hover {
+    transform: scale(1.05);
+}
+
+.nav-link.active {
+    color: #dc3545 !important;/* rosso come il logo */
+    font-weight: 600;
+}
+

@@ -12,19 +12,28 @@
     {{-- Sommario Navigazione --}}
     <div class="text-center mt-4 mb-5">
         <p class="lead fw-semibold">Vai direttamente a:</p>
-        <a href="#antipasti" class="btn btn-outline-secondary btn-sm me-2">🍽️ Antipasti</a>
-        <a href="#bruschette" class="btn btn-outline-secondary btn-sm me-2">🥖 Bruschette</a>
-        <a href="#calzoni" class="btn btn-outline-secondary btn-sm me-2">🧀 Calzoni</a>
-        <a href="#pizze" class="btn btn-outline-secondary btn-sm me-2">🍕 Pizze</a>
-        <a href="#bevande" class="btn btn-outline-secondary btn-sm me-2">🥤 Bevande</a>
-        <a href="#birre" class="btn btn-outline-secondary btn-sm me-2">🍺 Birre</a>
-        <a href="#fine" class="btn btn-outline-secondary btn-sm">🍮 E per finire</a>
+        <a href="#antipasti" class="btn btn-outline-secondary btn-sm me-2" aria-label="Vai alla sezione antipasti">🍽️
+            Antipasti</a>
+        <a href="#bruschette" class="btn btn-outline-secondary btn-sm me-2" aria-label="Vai alla sezione bruschette">🥖
+            Bruschette</a>
+        <a href="#calzoni" class="btn btn-outline-secondary btn-sm me-2" aria-label="Vai alla sezione calzoni">🧀
+            Calzoni</a>
+        <a href="#pizze" class="btn btn-outline-secondary btn-sm me-2" aria-label="Vai alla sezione pizze">🍕 Pizze</a>
+        <a href="#bevande" class="btn btn-outline-secondary btn-sm me-2" aria-label="Vai alla sezione bevande">🥤
+            Bevande</a>
+        <a href="#birre" class="btn btn-outline-secondary btn-sm me-2" aria-label="Vai alla sezione birre">🍺 Birre</a>
+        <a href="#fine" class="btn btn-outline-secondary btn-sm" aria-label="Vai alla sezione per finire">🍮 E per
+            finire</a>
     </div>
 
     <section class="py-5">
         <div class="container">
             <h1 class="visually-hidden">Menù completo della Pizzeria Passaparola</h1>
-            <h2 class="text-center fw-bold mb-5">Il nostro menù</h2>
+            <h2 class="text-center fw-bold mb-2">Il nostro menù</h2>
+            <p class="text-center text-muted small mb-5">
+                <i class="bi bi-leaf-fill text-success me-1"></i> Indica un piatto vegetariano
+            </p>
+
 
             <div id="antipasti" class="mb-5">
                 <h2 class="h4 text-danger mb-3">🍽️ Antipasti</h2>
@@ -42,16 +51,24 @@
                                 Mare</span><span>8,00 €</span></div>
                     </div>
                     <div class="col">
-                        <div class="d-flex justify-content-between border-bottom py-2"><span>Supplì</span><span>1,50
+                        <div class="d-flex justify-content-between border-bottom py-2"><span>Supplì</span> <span
+                                class="badge text-success ms-2">
+                                <i class="bi bi-leaf-fill me-1"></i>
+                            </span><span>1,50
                                 €</span></div>
                     </div>
                     <div class="col">
-                        <div class="d-flex justify-content-between border-bottom py-2"><span>Crocchette</span><span>1,50
+                        <div class="d-flex justify-content-between border-bottom py-2"><span>Crocchette</span> <span
+                                class="badge text-success ms-2">
+                                <i class="bi bi-leaf-fill me-1"></i>
+                            </span><span>1,50
                                 €</span></div>
                     </div>
                     <div class="col">
                         <div class="d-flex justify-content-between border-bottom py-2"><span>Patatine
-                                Fritte</span><span>5,00 €</span></div>
+                                Fritte</span> <span class="badge text-success ms-2">
+                                <i class="bi bi-leaf-fill me-1"></i>
+                            </span><span>5,00 €</span></div>
                     </div>
                     <div class="col">
                         <div class="d-flex justify-content-between border-bottom py-2"><span>Olive ascolane (10
@@ -59,7 +76,9 @@
                     </div>
                     <div class="col">
                         <div class="d-flex justify-content-between border-bottom py-2"><span>Mozzarelline (6
-                                pezzi)</span><span>5,00 €</span></div>
+                                pezzi)</span> <span class="badge text-success ms-2">
+                                <i class="bi bi-leaf-fill me-1"></i>
+                            </span><span>5,00 €</span></div>
                     </div>
                     <div class="col">
                         <div class="d-flex justify-content-between border-bottom py-2"><span>Fiori di
@@ -80,15 +99,24 @@
                 <h2 class="h4 text-danger mb-3">🥖 Bruschette</h2>
                 <div class="row row-cols-1 row-cols-md-2 g-3">
                     <div class="col">
-                        <div class="d-flex justify-content-between border-bottom py-2"><span>Semplice</span><span>1,50
+                        <div class="d-flex justify-content-between border-bottom py-2"><span>Semplice</span> <span
+                                class="badge text-success ms-2">
+                                <i class="bi bi-leaf-fill me-1"></i>
+                            </span><span>1,50
                                 €</span></div>
                     </div>
                     <div class="col">
-                        <div class="d-flex justify-content-between border-bottom py-2"><span>Pomodoro</span><span>3,50
+                        <div class="d-flex justify-content-between border-bottom py-2"><span>Pomodoro</span> <span
+                                class="badge text-success ms-2">
+                                <i class="bi bi-leaf-fill me-1"></i>
+                            </span><span>3,50
                                 €</span></div>
                     </div>
                     <div class="col">
-                        <div class="d-flex justify-content-between border-bottom py-2"><span>Melanzane</span><span>3,50
+                        <div class="d-flex justify-content-between border-bottom py-2"><span>Melanzane</span> <span
+                                class="badge text-success ms-2">
+                                <i class="bi bi-leaf-fill me-1"></i>
+                            </span><span>3,50
                                 €</span></div>
                     </div>
                     <div class="col">
@@ -97,27 +125,38 @@
                     </div>
                     <div class="col">
                         <div class="d-flex justify-content-between border-bottom py-2"><span>Paté
-                                d’olive</span><span>4,00 €</span></div>
+                                d’olive</span> <span class="badge text-success ms-2">
+                                <i class="bi bi-leaf-fill me-1"></i>
+                            </span><span>4,00 €</span></div>
                     </div>
                     <div class="col">
                         <div class="d-flex justify-content-between border-bottom py-2"><span>Piccante</span><span>3,50
                                 €</span></div>
                     </div>
                     <div class="col">
-                        <div class="d-flex justify-content-between border-bottom py-2"><span>Peperoni</span><span>4,00
+                        <div class="d-flex justify-content-between border-bottom py-2"><span>Peperoni</span> <span
+                                class="badge text-success ms-2">
+                                <i class="bi bi-leaf-fill me-1"></i>
+                            </span><span>4,00
                                 €</span></div>
                     </div>
                     <div class="col">
                         <div class="d-flex justify-content-between border-bottom py-2"><span>Salsa al
-                                tartufo</span><span>4,00 €</span></div>
+                                tartufo</span> <span class="badge text-success ms-2">
+                                <i class="bi bi-leaf-fill me-1"></i>
+                            </span><span>4,00 €</span></div>
                     </div>
                     <div class="col">
                         <div class="d-flex justify-content-between border-bottom py-2"><span>Crema ai 4
-                                formaggi</span><span>4,00 €</span></div>
+                                formaggi</span> <span class="badge text-success ms-2">
+                                <i class="bi bi-leaf-fill me-1"></i>
+                            </span><span>4,00 €</span></div>
                     </div>
                     <div class="col">
                         <div class="d-flex justify-content-between border-bottom py-2"><span>Crema ai 4 formaggi
-                                tartufata</span><span>4,00 €</span></div>
+                                tartufata</span> <span class="badge text-success ms-2">
+                                <i class="bi bi-leaf-fill me-1"></i>
+                            </span><span>4,00 €</span></div>
                     </div>
                     <div class="col">
                         <div class="d-flex justify-content-between border-bottom py-2"><span>Crema di
@@ -125,11 +164,15 @@
                     </div>
                     <div class="col">
                         <div class="d-flex justify-content-between border-bottom py-2"><span>Crema di
-                                carciofi</span><span>4,00 €</span></div>
+                                carciofi</span> <span class="badge text-success ms-2">
+                                <i class="bi bi-leaf-fill me-1"></i>
+                            </span><span>4,00 €</span></div>
                     </div>
                     <div class="col">
                         <div class="d-flex justify-content-between border-bottom py-2"><span>Funghi porcini
-                                trifolati</span><span>4,50 €</span></div>
+                                trifolati</span> <span class="badge text-success ms-2">
+                                <i class="bi bi-leaf-fill me-1"></i>
+                            </span><span>4,50 €</span></div>
                     </div>
                     <div class="col">
                         <div class="d-flex justify-content-between border-bottom py-2"><span>Miste</span><span>4,50
@@ -177,6 +220,9 @@
                                     <strong>Focaccia</strong><span>4,50 €</span>
                                 </div>
                                 <small class="text-muted">Ingredienti: Bianca.</small>
+                                <span class="badge text-success ms-2">
+                                    <i class="bi bi-leaf-fill me-1"></i>
+                                </span>
                             </div>
                         </div>
                         <div class="col">
@@ -185,6 +231,9 @@
                                     <strong>Rossa</strong><span>6,00 €</span>
                                 </div>
                                 <small class="text-muted">Ingredienti: Pomodoro e origano (aglio a richiesta).</small>
+                                <span class="badge text-success ms-2">
+                                    <i class="bi bi-leaf-fill me-1"></i>
+                                </span>
                             </div>
                         </div>
                         <div class="col">
@@ -193,6 +242,9 @@
                                     <strong>Margherita</strong><span>8,00 €</span>
                                 </div>
                                 <small class="text-muted">Ingredienti: Pomodoro e mozzarella.</small>
+                                <span class="badge text-success ms-2">
+                                    <i class="bi bi-leaf-fill me-1"></i>
+                                </span>
                             </div>
                         </div>
                         <div class="col">
@@ -202,6 +254,9 @@
                                 </div>
                                 <small class="text-muted">Ingredienti: Pomodoro, mozzarella e scamorza
                                     affumicata.</small>
+                                <span class="badge text-success ms-2">
+                                    <i class="bi bi-leaf-fill me-1"></i>
+                                </span>
                             </div>
                         </div>
                         <div class="col">
@@ -228,6 +283,9 @@
                                     <strong>Funghi</strong><span>8,50 €</span>
                                 </div>
                                 <small class="text-muted">Ingredienti: Pomodoro, mozzarella e funghi.</small>
+                                <span class="badge text-success ms-2">
+                                    <i class="bi bi-leaf-fill me-1"></i>
+                                </span>
                             </div>
                         </div>
                         <div class="col">
@@ -261,6 +319,9 @@
                                     <strong>Melanzane</strong><span>9,00 €</span>
                                 </div>
                                 <small class="text-muted">Ingredienti: Pomodoro, mozzarella e melanzane.</small>
+                                <span class="badge text-success ms-2">
+                                    <i class="bi bi-leaf-fill me-1"></i>
+                                </span>
                             </div>
                         </div>
                         <div class="col">
@@ -287,6 +348,9 @@
                                 </div>
                                 <small class="text-muted">Ingredienti: Mozzarella, carciofi e crema di
                                     carciofi.</small>
+                                <span class="badge text-success ms-2">
+                                    <i class="bi bi-leaf-fill me-1"></i>
+                                </span>
                             </div>
                         </div>
                         <div class="col">
@@ -296,6 +360,9 @@
                                 </div>
                                 <small class="text-muted">Ingredienti: Mozzarella, crema di carciofi tartufata e
                                     carciofi.</small>
+                                <span class="badge text-success ms-2">
+                                    <i class="bi bi-leaf-fill me-1"></i>
+                                </span>
                             </div>
                         </div>
                         <div class="col">
@@ -304,6 +371,9 @@
                                     <strong>4 formaggi</strong><span>8,50 €</span>
                                 </div>
                                 <small class="text-muted">Ingredienti: Mozzarella e formaggi.</small>
+                                <span class="badge text-success ms-2">
+                                    <i class="bi bi-leaf-fill me-1"></i>
+                                </span>
                             </div>
                         </div>
                         <div class="col">
@@ -312,6 +382,9 @@
                                     <strong>5 formaggi</strong><span>9,00 €</span>
                                 </div>
                                 <small class="text-muted">Ingredienti: Mozzarella, formaggi e gorgonzola.</small>
+                                <span class="badge text-success ms-2">
+                                    <i class="bi bi-leaf-fill me-1"></i>
+                                </span>
                             </div>
                         </div>
                         <div class="col">
@@ -340,6 +413,9 @@
                                     <strong>Peperoni</strong><span>9,50 €</span>
                                 </div>
                                 <small class="text-muted">Ingredienti: Pomodoro, mozzarella e peperoni.</small>
+                                <span class="badge text-success ms-2">
+                                    <i class="bi bi-leaf-fill me-1"></i>
+                                </span>
                             </div>
                         </div>
                         <div class="col">
@@ -431,6 +507,9 @@
                                     <strong>Funghi porcini</strong><span>11,00 €</span>
                                 </div>
                                 <small class="text-muted">Ingredienti: Mozzarella e funghi porcini.</small>
+                                <span class="badge text-success ms-2">
+                                    <i class="bi bi-leaf-fill me-1"></i>
+                                </span>
                             </div>
                         </div>
                         <div class="col">
@@ -457,6 +536,9 @@
                                 </div>
                                 <small class="text-muted">Ingredienti: Pomodoro, rucola, melanzane, peperoni, zucchine
                                     e olive.</small>
+                                <span class="badge text-success ms-2">
+                                    <i class="bi bi-leaf-fill me-1"></i>
+                                </span>
                             </div>
                         </div>
                         <div class="col">
@@ -482,6 +564,9 @@
                                     <strong>Passaparola 5</strong><span>10,00 €</span>
                                 </div>
                                 <small class="text-muted">Ingredienti: Mozzarella, funghi e crema tartufata.</small>
+                                <span class="badge text-success ms-2">
+                                    <i class="bi bi-leaf-fill me-1"></i>
+                                </span>
                             </div>
                         </div>
                         <div class="col">
@@ -636,8 +721,10 @@
                         <div class="d-flex justify-content-between border-bottom py-2"><span>Amari</span><span>2,00
                                 €</span></div>
                     </div>
+                </div> {{-- <<<< questa mancava --}}
                 <p class="small mt-2 text-muted">* 1,00 € per il servizio per chi non ordina almeno una pizza.</p>
             </div>
+
 
         </div>
     </section>
