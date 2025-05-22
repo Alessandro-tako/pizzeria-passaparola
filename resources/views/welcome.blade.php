@@ -28,20 +28,21 @@
                 <div class="col-md-4">
                     <i class="bi bi-fire fs-1 text-danger"></i>
                     <h5 class="mt-3">Forno a Legna</h5>
-                    <p>Le nostre pizze sono cotte esclusivamente in forno a legna, per un gusto autentico, fragrante e
-                        irresistibile.</p>
+                    <p>Da oltre 30 anni le nostre pizze sono cotte esclusivamente in forno a legna, per un gusto
+                        autentico, fragrante e
+                        irresistibile. La nostra storia si sente in ogni morso.</p>
                 </div>
                 <div class="col-md-4">
                     <i class="bi bi-house-heart fs-1 text-success"></i>
-                    <h5 class="mt-3">Gestione Familiare</h5>
-                    <p>Un’attività a conduzione familiare, dove ogni cliente è accolto con passione, cura e un sorriso
-                        sincero.</p>
+                    <h5 class="mt-3">Accoglienza familiare</h5>
+                    <p>Dal 1993 trattiamo ogni cliente come uno di famiglia, con un sorriso sincero e un ambiente dove
+                        sentirsi davvero a casa.</p>
                 </div>
                 <div class="col-md-4">
-                    <i class="bi bi-people fs-1 text-warning"></i>
-                    <h5 class="mt-3">Clienti Soddisfatti</h5>
-                    <p>Decine di recensioni positive su TripAdvisor: qualità, cordialità e un’atmosfera che conquista al
-                        primo morso.</p>
+                    <i class="bi bi-pie-chart-fill fs-1 text-warning"></i>
+                    <h5 class="mt-3">Vera pizza romana</h5>
+                    <p>45 cm di bontà: sottile, croccante e digeribile. La nostra pizza romana è una tradizione che si
+                        rinnova ogni giorno con passione.</p>
                 </div>
             </div>
         </div>

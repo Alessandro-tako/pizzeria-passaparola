@@ -9,26 +9,29 @@
                 <div class="col-md-6">
                     <h1 class="fw-bold text-danger mb-4">Chi siamo</h1>
                     <p class="lead">
-                        La Pizzeria <strong>Passaparola</strong> nasce dal sogno di una famiglia unita dall’amore per la
-                        buona cucina e per la tradizione italiana.
+                        Dal 1993, nascosta nel cuore del quartiere La Rustica, <strong>la Pizzeria Passaparola</strong>
+                        è molto più di un locale: è una famiglia che accoglie, una tradizione che si rinnova ogni sera,
+                        una promessa di gusto autentico.
+                    </p>
+
+                    <p>
+                        Le nostre pizze sono un’esperienza: sottilissime, croccanti, giganti (ben 45 cm di bontà!) e
+                        incredibilmente digeribili. Prepariamo ogni creazione con ingredienti genuini che parlano di
+                        sole, territorio e stagioni: pomodoro saporito, mozzarella filante, verdure freschissime e
+                        salumi selezionati.
                     </p>
                     <p>
-                        Da generazioni ci tramandiamo i segreti dell’impasto perfetto, del sugo fatto in casa, del forno
-                        a legna acceso ogni giorno con la stessa passione del primo.
-                        Il nostro è un ambiente semplice, accogliente, dove ogni cliente viene trattato come uno di
-                        famiglia.
+                        Appena varchi la soglia, sentirai il profumo del forno a legna e l’energia di un ambiente vivace
+                        e accogliente. Qui ogni cliente è chiamato per nome, accolto con un sorriso sincero e trattato
+                        come uno di famiglia.
                     </p>
                     <p>
-                        Siamo fieri di offrire pizze cotte rigorosamente a legna, ingredienti freschi e un servizio
-                        genuino, che nasce dall’esperienza e dal cuore.
+                        Se cerchi un posto dove sentirti a casa, mangiare bene e tornare volentieri... <strong>sei nel
+                            posto giusto.</strong>
                     </p>
-                    <p>
-                        Se cerchi un luogo dove sentirti a casa, assaporare la vera pizza romana e sorridere con chi ti
-                        serve… <strong>sei nel posto giusto.</strong>
-                    </p>
+
                 </div>
             </div>
-        </div>
     </section>
 
     {{-- GALLERIA / LOOKBOOK --}}
