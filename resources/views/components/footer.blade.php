@@ -48,7 +48,7 @@
 
         <div class="text-center small">
             <p class="mb-1">Pizzeria Passaparola - P.IVA: 17490471004</p>
-            <p class="mb-1">&copy; 2024 - {{ now()->year }} Tutti i diritti riservati.</p>
+            <p class="mb-1">&copy; 1993 - {{ now()->year }} Tutti i diritti riservati.</p>
             <p class="mb-0">🔥 Powered by Takohr • il Forgiatore di Codice ⚒️</p>
         </div>
 

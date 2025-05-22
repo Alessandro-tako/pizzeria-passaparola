@@ -12,17 +12,17 @@
     {{-- Sommario Navigazione --}}
     <div class="text-center mt-4 mb-5">
         <p class="lead fw-semibold">Vai direttamente a:</p>
-        <a href="#antipasti" class="btn btn-outline-secondary btn-sm me-2" aria-label="Vai alla sezione antipasti">🍽️
+        <a href="#antipasti" class="btn btn-outline-secondary btn-sm me-2 mb-3" aria-label="Vai alla sezione antipasti">🍽️
             Antipasti</a>
-        <a href="#bruschette" class="btn btn-outline-secondary btn-sm me-2" aria-label="Vai alla sezione bruschette">🥖
+        <a href="#bruschette" class="btn btn-outline-secondary btn-sm me-2 mb-3" aria-label="Vai alla sezione bruschette">🥖
             Bruschette</a>
-        <a href="#calzoni" class="btn btn-outline-secondary btn-sm me-2" aria-label="Vai alla sezione calzoni">🧀
+        <a href="#calzoni" class="btn btn-outline-secondary btn-sm me-2 mb-3" aria-label="Vai alla sezione calzoni">🧀
             Calzoni</a>
-        <a href="#pizze" class="btn btn-outline-secondary btn-sm me-2" aria-label="Vai alla sezione pizze">🍕 Pizze</a>
-        <a href="#bevande" class="btn btn-outline-secondary btn-sm me-2" aria-label="Vai alla sezione bevande">🥤
+        <a href="#pizze" class="btn btn-outline-secondary btn-sm me-2 mb-3" aria-label="Vai alla sezione pizze">🍕 Pizze</a>
+        <a href="#bevande" class="btn btn-outline-secondary btn-sm me-2 mb-3" aria-label="Vai alla sezione bevande">🥤
             Bevande</a>
-        <a href="#birre" class="btn btn-outline-secondary btn-sm me-2" aria-label="Vai alla sezione birre">🍺 Birre</a>
-        <a href="#fine" class="btn btn-outline-secondary btn-sm" aria-label="Vai alla sezione per finire">🍮 E per
+        <a href="#birre" class="btn btn-outline-secondary btn-sm me-2 mb-3" aria-label="Vai alla sezione birre">🍺 Birre</a>
+        <a href="#fine" class="btn btn-outline-secondary btn-sm mb-3" aria-label="Vai alla sezione per finire">🍮 E per
             finire</a>
     </div>
 
